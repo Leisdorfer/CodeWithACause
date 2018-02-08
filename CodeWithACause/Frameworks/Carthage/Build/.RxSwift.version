@@ -52,16 +52,16 @@
   ],
   "Mac" : [
     {
-      "hash" : "d7f1f44220136d57a3f56c758e337b886e3ea5bf70d77598d06c6ce8f0aa3098",
-      "name" : "RxTest"
-    },
-    {
       "hash" : "7b3d467d794a18f262c47edac5f108f18b3cebf3b9fca8ba64bded6c21e31a33",
       "name" : "RxCocoa"
     },
     {
       "hash" : "bdfe7f4aad5aa092ce541a8aedfb49d29fb7b6f2e62ab18ee2368880be1e278a",
       "name" : "RxBlocking"
+    },
+    {
+      "hash" : "d7f1f44220136d57a3f56c758e337b886e3ea5bf70d77598d06c6ce8f0aa3098",
+      "name" : "RxTest"
     },
     {
       "hash" : "9dd5bad22e9f39acc8f8f8f19491c34c126a4a96595f938f4148b288318024af",
